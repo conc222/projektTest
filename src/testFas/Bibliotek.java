@@ -1,4 +1,4 @@
-package Projekt;
+package testFas;
 
 public class Bibliotek {
     Bok[] utlånat = new Bok[]{};
